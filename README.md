@@ -1,6 +1,8 @@
+![firma github](https://user-images.githubusercontent.com/101704557/176879932-af10820b-7035-460c-9987-d089c334f32b.png)
+
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-![firma github](https://user-images.githubusercontent.com/101704557/176879932-af10820b-7035-460c-9987-d089c334f32b.png)
+My name is Ignacio Soria and I'm a junior data analyst. I'm from Spain, living in Pontevedra and currently working at Core Code School. 
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
