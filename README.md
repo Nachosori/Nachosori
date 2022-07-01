@@ -16,6 +16,7 @@ My name is Ignacio Soria and I'm a junior data analyst. I'm from Spain, living i
 ![](https://img.shields.io/badge/Tools-NumPy-informational?style=flat&logo=NumPy&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Streamlit-informational?style=flat&logo=Streamlit&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-FastAPI-informational?style=flat&logo=FastAPI&logoColor=white&color=2bbc8a)
 
 <!--
 **Nachosori/Nachosori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
