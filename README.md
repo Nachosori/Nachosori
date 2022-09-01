@@ -2,7 +2,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-My name is Ignacio Soria and I'm a junior data analyst. I'm from Spain, living in Pontevedra and currently working at Core Code School. 
+My name is Ignacio Soria and I am a junior data analyst. I am from Spain, I live in Pontevedra and I have finished the Big Data and Machine Learning BootCamp at Core Code School.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=b8d9db)
